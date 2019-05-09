@@ -1,0 +1,2 @@
+x = "Amazing"
+puts x
