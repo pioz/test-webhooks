@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 
-x = 'Amazing'
+x = "Amazing"
 puts x
