@@ -1,2 +1,2 @@
-x = 'Amazing'
+x = "Amazing"
 puts x
