@@ -1,3 +1,3 @@
-# Test file to check with Rubocop
+# Test file to check with Rubocop!
 x = 'Amazing'
 puts x
