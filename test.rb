@@ -1,3 +1,4 @@
-# Test file to check with Rubocop
+# frozen_string_literal: true
+
 x = 'Amazing'
 puts x
