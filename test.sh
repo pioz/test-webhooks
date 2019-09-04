@@ -7,4 +7,4 @@ echo ${epoc} >> ./README.md
 git add .
 git commit -am "Test ${epoc}"
 git push
-#hub pull-request -b master -m "Test ${epoc}"
+hub pull-request -b master -m "Test ${epoc}"
